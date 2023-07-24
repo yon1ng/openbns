@@ -1,2 +1,2 @@
 # openbns
-open source blade with soul emulator by java
+open source blade and soul emulator by java
