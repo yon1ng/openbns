@@ -9,7 +9,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>cn.com.servyou.pts</groupId>
+    <groupId>com.github.yon1ng</groupId>
     <artifactId>openbns-common</artifactId>
 
     <properties>
